@@ -1,9 +1,6 @@
-# FabricNetwork-2.x
+# FabricNetwork-2.5.5
 
-Youtube Channel: https://www.youtube.com/watch?v=SJTdJt6N6Ow&list=PLSBNVhWU6KjW4qo1RlmR7cvvV8XIILub6
-
-
-Network Topology
+Manual setup of HLF Network Topology
 
 Three Orgs(Peer Orgs)
 
